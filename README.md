@@ -4,12 +4,12 @@ A powerful PDF document querying system built with RAG (Retrieval-Augmented Gene
 
 ## Features
 
-- 📄 **PDF Processing**: Extract and process text from PDF documents using pdfplumber
-- 🔍 **Semantic Search**: FAISS vector database for efficient semantic search and retrieval
-- 🤖 **Multiple LLM Support**: Choose from Gemini, Groq, or Cohere AI models
-- 💬 **Persistent Chat**: Chat history is saved and persisted across sessions
-- 🎯 **RAG Architecture**: Retrieval-Augmented Generation for accurate, context-aware responses
-- 🎨 **Modern UI**: Beautiful Streamlit interface for easy interaction
+-  **PDF Processing**: Extract and process text from PDF documents using pdfplumber
+-  **Semantic Search**: FAISS vector database for efficient semantic search and retrieval
+-  **Multiple LLM Support**: Choose from Gemini, Groq, or Cohere AI models
+-  **Persistent Chat**: Chat history is saved and persisted across sessions
+-  **RAG Architecture**: Retrieval-Augmented Generation for accurate, context-aware responses
+-  **Modern UI**: Beautiful Streamlit interface for easy interaction
 
 ## Architecture
 
